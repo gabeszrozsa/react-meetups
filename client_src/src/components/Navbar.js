@@ -6,7 +6,7 @@ class Navbar extends Component {
     return (
       <div>
       <nav className="blue darken-3">
-      <div className="nav-wrapper">
+      <div className="nav-wrapper center-align">
       <a href="/" className="brand-logo">Meetups</a>
       <a data-activates="main-menu" className="button-collapse show-on-large"><i className="fa fa-bars"></i></a>
       <ul className="right hide-on-small-only">
